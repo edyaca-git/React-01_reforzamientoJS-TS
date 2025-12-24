@@ -42,3 +42,26 @@ b) Link de React
         y en 
         https://developers.giphy.com/dashboard/?create=true
         creaomos una API KEY llamada ReactCurso de tipo WEB
+
+
+Temas puntuales
+En esta sección estaremos teniendo nuestro reforzamiento sobre JavaScript moderno y TypeScript.
+Pasaremos por los conceptos que necesito que dominemos antes de entrar de lleno a React.
+
+Puntualmente aprenderemos sobre:
+    o  Usar const, let y var correctamente.
+    o  Escribir textos con template strings.
+    o  Crear y usar interfaces en TypeScript.
+    o  Trabajar con arreglos y recorrerlos.
+    o  Definir funciones simples y complejas.
+    o  Retornar múltiples valores desde funciones.
+    o  Desestructurar objetos y arreglos.
+    o  Usar enums para valores constantes.
+    o  Importar y exportar módulos.
+    o  Trabajar con promesas.
+    o  Hacer peticiones con Fetch API.
+    o  Usar la API de Giphy para obtener GIFs.
+    o  Optimizar código con buenas prácticas.
+    o  Escribir código asincrónico con async/await.
+    o  Realizar tareas prácticas guiadas.
+
